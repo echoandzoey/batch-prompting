@@ -1,6 +1,6 @@
 from typing import Type
 
-from hub.cot.commonsense_qa.extract_cot_commonsense_qa import CoTCommonsenseQAExtract
+from humanprompt.artifacts.hub.cot.commonsense_qa.extract_cot_commonsense_qa import CoTCommonsenseQAExtract
 from humanprompt.artifacts import HUB_SOURCE
 
 from .extract_base import Extract
